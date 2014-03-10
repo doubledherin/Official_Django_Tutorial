@@ -1,0 +1,8 @@
+li a {
+	color: green;
+}
+
+ul {
+	background: white url("images/background.gif") no-repeat center top;
+	height: 700px;
+}
